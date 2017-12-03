@@ -1,0 +1,17 @@
+{
+    "authors": [
+        "?@bu.edu",
+        "??@bu.edu",
+        "???@bu.edu"
+    ],
+    "passed": [
+        "collision_tester.py",
+        "collisiontester_checkall.py"
+    ],
+    "failed": [
+        "collision_tester.html",
+        "collision_tester.md",
+        "collision_tester.pdf",
+        "collisiontest_results.json"
+    ]
+}
